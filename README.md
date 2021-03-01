@@ -9,7 +9,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  1.3 Problemas numéricos y algoritmos. Fórmulas recursivas
 >> ###  1.4 Concepos básicos en la estimación de errores
 >> ###  1.5 Fuentes de error
->> ###  1.6 Errores absolutos y relativos. Redondeo
+>> ###  [1.6 Errores absolutos y relativos. Redondeo](https://github.com/css-umar/Metodos-Numericos/wiki/Errores-absolutos-y-relativos)
 > ## **2.0 Álgebra lineal numérica**
 >> ###  2.1 Conceptos básicos
 >> ###  2.2 Métodos directos para resolver sistemas lineales
