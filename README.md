@@ -22,7 +22,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  3.5 Aproximación de funciones por el método de mínimos cuadrados
 > ## **4.0 Ecuaciones no lineales**
 >> ###  4.1 Introducción
->> ###  4.2 Métodos de punto fijo
+>> ###  [4.2 Métodos de punto fijo](https://github.com/css-umar/Metodos-Numericos/wiki/M%C3%A9todo-del-punto-fijo)
 >> ###  4.3 Método de falsa posición
 >> ###  4.4 Método de bisección
 >> ###  4.5 Método de la secante
