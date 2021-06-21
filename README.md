@@ -29,9 +29,11 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [4.6 Método de Newton-Raphson](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoNewtonRaphson.ipynb)
 >> ###  [4.7 Raíces múltiples (método de Mueller)](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoMuller.ipynb)
 >> ###  4.8 Sistemas de ecuaciones no lineales
+>>> #### Método del punto fijo
+>>> #### Método de Newton
 >> ###  4.9 Métodos del tipo Newton-Raphson y algunas modificaciones
 >> ###  4.10 Otros métodos
->> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
+>>> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
 > ## **5.0 Integración numérica y diferenciación**
 >> ###  5.1 Operadores en diferencias y sus propiedades
 >> ###  5.2 Diferenciación numérica
