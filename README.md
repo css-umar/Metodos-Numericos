@@ -4,7 +4,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 ## Contenido
 
 > ## **1.0 Principios generales de los cálculos numéricos**
->> ###  [1.1 Introducción](https://github.com/css-umar/Metodos-Numericos/wiki/Introducci%C3%B3n)
+>> ###  [1.1 Introducción](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Introducci%C3%B3n.ipynb)
 >> ###  1.2 Conceptos básicos e ideas comunes en los métodos numéricos
 >> ###  1.3 Problemas numéricos y algoritmos. Fórmulas recursivas
 >> ###  1.4 Concepos básicos en la estimación de errores
