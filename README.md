@@ -23,14 +23,15 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 > ## **4.0 Ecuaciones no lineales**
 >> ###  4.1 Introducción
 >> ###  [4.2 Métodos de punto fijo](https://github.com/css-umar/Metodos-Numericos/wiki/M%C3%A9todo-del-punto-fijo)
->> ###  4.3 Método de falsa posición
->> ###  4.4 Método de bisección
+>> ###  [4.3 Método de falsa posición](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPosicionFalsa.ipynb)
+>> ###  [4.4 Método de bisección](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoBiseccion.ipynb)
 >> ###  4.5 Método de la secante
->> ###  4.6 Método de Newton-Raphson
->> ###  4.7 Raíces múltiples (método de Mueller)
+>> ###  [4.6 Método de Newton-Raphson](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoNewtonRaphson.ipynb)
+>> ###  [4.7 Raíces múltiples (método de Mueller)](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoMuller.ipynb)
 >> ###  4.8 Sistemas de ecuaciones no lineales
 >> ###  4.9 Métodos del tipo Newton-Raphson y algunas modificaciones
 >> ###  4.10 Otros métodos
+>> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
 > ## **5.0 Integración numérica y diferenciación**
 >> ###  5.1 Operadores en diferencias y sus propiedades
 >> ###  5.2 Diferenciación numérica
