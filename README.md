@@ -11,15 +11,16 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  1.5 Fuentes de error
 >> ###  [1.6 Errores absolutos y relativos. Redondeo](https://github.com/css-umar/Metodos-Numericos/wiki/Errores-absolutos-y-relativos)
 > ## **2.0 Álgebra lineal numérica**
->> ###  2.1 Conceptos básicos
->> ###  2.2 Métodos directos para resolver sistemas lineales
+>> ###  [2.1 Conceptos básicos](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/ConceptosBasicosALN.ipynb)
+>> ###  [2.2 Métodos directos para resolver sistemas lineales](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodosDirectosALN.ipynb)
 >> ###  2.3 Métodos iterativos (Jacobi Y Gauss Seidel)
 > ## **3.0 Aproximación de funciones e interpolación**
 >> ###  3.1 Conceptos básicos en aproximación
->> ###  3.2 Aproximación polinomial simple e interpolación
->> ###  3.3 Polinomios de Newton con diferencias finitas
->> ###  3.4 Spline cúbicos
->> ###  3.5 Aproximación de funciones por el método de mínimos cuadrados
+>> ###  [3.2 Aproximación polinomial simple e interpolación](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/AproximacionPolinomialSimple.ipynb)
+>> ###  [3.3 Polinomios de Newton con diferencias finitas](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/PolinomiosNewtonDiferenciasDivididas.ipynb)
+>> ###  [3.4 Polinomios de Lagrange](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/PolinomiosLagrange.ipynb)
+>> ###  [3.5 Spline cúbicos](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/SplineCubicos.ipynb)
+>> ###  [3.6 Aproximación de funciones por el método de mínimos cuadrados](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MinimosCuadrados.ipynb)
 > ## **4.0 Ecuaciones no lineales**
 >> ###  4.1 Introducción
 >> ###  [4.2 Métodos de punto fijo](https://github.com/css-umar/Metodos-Numericos/wiki/M%C3%A9todo-del-punto-fijo)
@@ -36,11 +37,11 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >>> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
 > ## **5.0 Integración numérica y diferenciación**
 >> ###  5.1 Operadores en diferencias y sus propiedades
->> ###  5.2 Diferenciación numérica
->> ###  5.3 Integración Numérica. La regla del rectángulo. La regla del trapecio. Regla de Simpson.
->> ###  5.4 Integración de funciones de varias variables
+>> ###  [5.2 Diferenciación numérica](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/DiferenciacionNumerica.ipynb)
+>> ###  [5.3 Integración Numérica. La regla del rectángulo. La regla del trapecio. Regla de Simpson.](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/IntegracionNumerica.ipynb)
+>> ###  [5.4 Integración de funciones de varias variables](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/IntegracionFuncionesVariasVaribles.ipynb)
 > ## **6.0 Ecuaciones diferenciales**
 >> ###  6.1 Conceptos sobre problemas de valor inicial
->> ###  6.2 Método de Euler
->> ###  6.3 Método de Runge-Kutta
->> ###  6.4 Diferencias finitas
+>> ###  [6.2 Método de Euler]((https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/ConceptosPVIEuler.ipynb))
+>> ###  [6.3 Método de Runge-Kutta](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodosRungeKutta.ipynb)
+>> ###  [6.4 Diferencias finitas](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/EDP.ipynb)
