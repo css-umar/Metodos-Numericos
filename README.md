@@ -1,4 +1,4 @@
-# Anális Numérico
+# Análisis Numérico
 El alumno aplicará conceptos matemáticos para resolver problemas de solución analítica difícil en Ciencia e Ingeniería: ecuaciones diferenciales complicadas, sistemas de ecuaciones lineales y sistemas de ecuaciones no-lineales.
 
 ## Contenido
