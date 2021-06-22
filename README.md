@@ -42,6 +42,6 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [5.4 Integración de funciones de varias variables](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/IntegracionFuncionesVariasVaribles.ipynb)
 > ## **6.0 Ecuaciones diferenciales**
 >> ###  6.1 Conceptos sobre problemas de valor inicial
->> ###  [6.2 Método de Euler]((https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/ConceptosPVIEuler.ipynb))
+>> ###  [6.2 Método de Euler](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/ConceptosPVIEuler.ipynb)
 >> ###  [6.3 Método de Runge-Kutta](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodosRungeKutta.ipynb)
 >> ###  [6.4 Diferencias finitas](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/EDP.ipynb)
