@@ -30,7 +30,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [4.7 Raíces múltiples (método de Mueller)](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoMuller.ipynb)
 >> ###  4.8 Sistemas de ecuaciones no lineales
 >>> #### [Método del punto fijo](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesPuntoFijo.ipynb)
->>> #### [Método de Newton](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesNewton.ipynb)
+>>> #### [Método de Newton](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesNewton.ipynb)
 >> ###  4.9 Métodos del tipo Newton-Raphson y algunas modificaciones
 >> ###  4.10 Otros métodos
 >>> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
