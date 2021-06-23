@@ -26,7 +26,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [4.2 Métodos de punto fijo](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPuntoFijo.ipynb)
 >> ###  [4.3 Método de falsa posición](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPosicionFalsa.ipynb)
 >> ###  [4.4 Método de bisección](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoBiseccion.ipynb)
->> ###  4.5 Método de la secante
+>> ###  [4.5 Método de la secante](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Secante.ipynb)
 >> ###  [4.6 Método de Newton-Raphson](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoNewtonRaphson.ipynb)
 >> ###  [4.7 Raíces múltiples (método de Mueller)](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoMuller.ipynb)
 >> ###  4.8 Sistemas de ecuaciones no lineales
