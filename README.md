@@ -7,7 +7,7 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [1.1 Introducción](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Introducci%C3%B3n.ipynb)
 >> ###  1.2 Conceptos básicos e ideas comunes en los métodos numéricos
 >> ###  1.3 Problemas numéricos y algoritmos. Fórmulas recursivas
->> ###  [1.4 Concepos básicos en la estimación de errores]([https:/](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes_de_Error.ipynb)
+>> ###  [1.4 Concepos básicos en la estimación de errores](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes_de_Error.ipynb)
 >> ###  [1.5 Fuentes de error](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes%20de%20error.ipynb)
 >> ###  [1.6 Errores absolutos y relativos. Redondeo](https://github.com/css-umar/Metodos-Numericos/wiki/Errores-absolutos-y-relativos)
 > ## **2.0 Álgebra lineal numérica**
