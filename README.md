@@ -4,11 +4,11 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 ## Contenido
 
 > ## **1.0 Principios generales de los cálculos numéricos**
->> ###  [1.1 Introducción](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Introducci%C3%B3n.ipynb)
+>> ###  [1.1 Introducción](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/Introducci%C3%B3n.ipynb)
 >> ###  1.2 Conceptos básicos e ideas comunes en los métodos numéricos
 >> ###  1.3 Problemas numéricos y algoritmos. Fórmulas recursivas
->> ###  [1.4 Concepos básicos en la estimación de errores](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes_de_Error.ipynb)
->> ###  [1.5 Fuentes de error](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes%20de%20error.ipynb)
+>> ###  [1.4 Concepos básicos en la estimación de errores](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes_de_Error.ipynb)
+>> ###  [1.5 Fuentes de error](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/Fuentes_de_Error.ipynb)
 >> ###  [1.6 Errores absolutos y relativos. Redondeo](https://github.com/css-umar/Metodos-Numericos/wiki/Errores-absolutos-y-relativos)
 > ## **2.0 Álgebra lineal numérica**
 >> ###  [2.1 Conceptos básicos](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/ConceptosBasicosALN.ipynb)
@@ -23,15 +23,15 @@ El alumno aplicará conceptos matemáticos para resolver problemas de solución 
 >> ###  [3.6 Aproximación de funciones por el método de mínimos cuadrados](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MinimosCuadrados.ipynb)
 > ## **4.0 Ecuaciones no lineales**
 >> ###  4.1 Introducción
->> ###  [4.2 Métodos de punto fijo](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPuntoFijo.ipynb)
->> ###  [4.3 Método de falsa posición](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPosicionFalsa.ipynb)
->> ###  [4.4 Método de bisección](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoBiseccion.ipynb)
->> ###  [4.5 Método de la secante](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Secante.ipynb)
->> ###  [4.6 Método de Newton-Raphson](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/MetodoNewtonRaphson.ipynb)
+>> ###  [4.2 Métodos de punto fijo](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPuntoFijo.ipynb)
+>> ###  [4.3 Método de falsa posición](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodoPosicionFalsa.ipynb)
+>> ###  [4.4 Método de bisección](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodoBiseccion.ipynb)
+>> ###  [4.5 Método de la secante](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/Secante.ipynb)
+>> ###  [4.6 Método de Newton-Raphson](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodoNewtonRaphson.ipynb)
 >> ###  [4.7 Raíces múltiples (método de Mueller)](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/MetodoMuller.ipynb)
 >> ###  4.8 Sistemas de ecuaciones no lineales
->>> #### [Método del punto fijo](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesPuntoFijo.ipynb)
->>> #### [Método de Newton](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesNewton.ipynb)
+>>> #### [Método del punto fijo](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesPuntoFijo.ipynb)
+>>> #### [Método de Newton](https://github.com/css-umar/Metodos-Numericos/blob/master/Notas/SistemasNolinealesNewton.ipynb)
 >> ###  4.9 Métodos del tipo Newton-Raphson y algunas modificaciones
 >> ###  4.10 Otros métodos
 >>> #### 4.10.1 [El método _root_scalar_  del modulo optimize de la biblioteca scipy](https://nbviewer.jupyter.org/github/css-umar/Metodos-Numericos/blob/master/Notas/Root_scalar.ipynb)
